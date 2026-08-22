@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+myenv/
+venv/
+.venv/
+
+# Build artifacts
+package/
+deployment.zip
+
+# OS
+.DS_Store
